@@ -184,11 +184,15 @@ Personal finance tracker with expense categorization and visual reports.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Palentoist&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Palentoist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palentoist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos by Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palentoist&theme=tokyonight" alt="Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palentoist&theme=tokyonight" alt="Productive Time"/>
+
 </div>
 
 ---
