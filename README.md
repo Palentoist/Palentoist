@@ -187,8 +187,6 @@ Personal finance tracker with expense categorization and visual reports.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile Details"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Palentoist&theme=tokyonight" alt="GitHub Streak"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos by Language"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palentoist&theme=tokyonight" alt="Stats"/>
