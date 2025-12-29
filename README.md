@@ -158,6 +158,21 @@ Personal finance tracker with expense categorization and visual reports.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🏡 Real Estate Management System
+**`Laravel` `PHP` `MySQL` `Bootstrap`**
+
+Comprehensive property management platform with listings, agent management, and client inquiries.
+
+[View Project](https://github.com/Palentoist/WebTechnology_RealEstateProject)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
