@@ -166,8 +166,6 @@ Personal finance tracker with expense categorization and visual reports.
 
 Comprehensive property management platform with listings, agent management, and client inquiries.
 
-[View Project](https://github.com/Palentoist/WebTechnology_RealEstateProject)
-
 </td>
 <td width="50%">
 
