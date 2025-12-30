@@ -131,8 +131,7 @@ Cloud storage application with file upload, folder management, and real-time syn
 Classic snake game with modern UI and increasing difficulty levels.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🗳️ Voter Authentication System
@@ -141,6 +140,10 @@ Classic snake game with modern UI and increasing difficulty levels.
 Secure authentication system for voter verification and management.
 
 </td>
+
+</tr>
+<tr>
+
 <td width="50%">
 
 ### 💰 Finance Manager
@@ -149,8 +152,7 @@ Secure authentication system for voter verification and management.
 Personal finance tracker with expense categorization and visual reports.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🏡 Real Estate Management System
@@ -162,6 +164,7 @@ Comprehensive property management platform with listings, agent management, and 
 <td width="50%">
 
 </td>
+
 </tr>
 </table>
 
