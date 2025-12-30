@@ -131,14 +131,6 @@ Cloud storage application with file upload, folder management, and real-time syn
 Classic snake game with modern UI and increasing difficulty levels.
 
 </td>
-<td width="50%">
-
-### 🔴 4-In-A-Row Game
-**`Java` `Swing`**
-
-Two-player strategy game with win detection and clean interface.
-
-</td>
 </tr>
 <tr>
 <td width="50%">
