@@ -156,7 +156,7 @@ Personal finance tracker with expense categorization and visual reports.
 <td width="50%">
 
 ### 🏡 Real Estate Management System
-**`Laravel` `PHP` `MySQL` `Bootstrap`**
+**`Laravel` `PHP` `MySQL` `Bootstrap` `JWT`**
 
 Comprehensive property management platform with listings, agent management, and client inquiries.
 
