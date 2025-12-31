@@ -161,10 +161,6 @@ Personal finance tracker with expense categorization and visual reports.
 Comprehensive property management platform with listings, agent management, and client inquiries.
 
 </td>
-<td width="50%">
-
-</td>
-
 </tr>
 </table>
 
