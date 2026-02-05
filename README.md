@@ -79,7 +79,8 @@ const shawaiz = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vite](https://img.shields.io/badge/wmspanel-0000FF?style=for-the-badge&logo=WMSpanel&logoColor=white)
+![WMSPanel](https://img.shields.io/badge/wmspanel-0000FF?style=for-the-badge&logo=WMSpanel&logoColor=white)
+![VMix](https://img.shields.io/badge/vmix-000080?style=for-the-badge&logo=vmix&logoColor=white)
 
 </div>
 
