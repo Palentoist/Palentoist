@@ -126,10 +126,10 @@ Cloud storage application with file upload, folder management, and real-time syn
 <tr>
 <td width="50%">
 
-### 🐍 Snake Game
-**`Java` `Swing`**
+### 🎭 Mafia Game
+**`React.js` `Socket.io` `Node.js` `Vite` `Express.js`**
 
-Classic snake game with modern UI and increasing difficulty levels.
+A real-time multiplayer game of deception where players take on secret roles, eliminate enemies under cover of night, and fight to survive until the truth is revealed.
 
 </td>
 
