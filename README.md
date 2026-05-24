@@ -137,10 +137,10 @@ A real-time multiplayer game of deception where players take on secret roles, el
 
 <td width="50%">
 
-### 🗳️ Voter Authentication System
-**`Java` `Swing`**
+### 🧳 Enterprise Travel & Expense Management System
+**`Node.js` `Express.js` `Socket.IO` `PostGres` `JWT ` `React.js` `Tailwind CSS`**
 
-Secure authentication system for voter verification and management.
+A robust PERN stack application for enterprise travel and expense management with role-based access control, multi-level approvals, real-time notifications, and secure PostgreSQL-backed authentication.
 
 </td>
 
