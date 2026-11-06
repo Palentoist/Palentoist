@@ -1,217 +1,121 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi, I'm Syed Shawaiz Ali 👋</h1>
-  <p><em>CS Undergrad @ NUML Islamabad • Full-Stack Developer • Building Cool Stuff</em></p>
-  
-  <a href="www.linkedin.com/in/syed-shawaiz-a27176349">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Shawai8009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Palentoist">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Palentoist&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
 
----
+# Syed Shawaiz Ali
 
-## 🎓 Education
+**Full-Stack Software Engineer** · CS Undergraduate @ NUML Islamabad
 
-🏛️ **NUML Islamabad** — *BS Computer Science (2024–2028)*
+Building real-time, data-driven web applications with the PERN, MERN and Laravel stacks.
 
----
-
-## 🚀 About Me
-
-```javascript
-const shawaiz = {
-    pronouns: "he" | "him",
-    location: "Islamabad, Pakistan",
-    currentFocus: "Full-Stack Development & Game Dev",
-    funFact: "I turn caffeine into code ☕→💻"
-};
-```
-
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **AI/ML** and exploring new technologies
-- 💬 Ask me about **React, Node.js, C++, Java**
-- ⚡ Fun fact: I love building games and interactive experiences
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E02620?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![WMSPanel](https://img.shields.io/badge/wmspanel-0000FF?style=for-the-badge&logo=WMSpanel&logoColor=white)
-![VMix](https://img.shields.io/badge/vmix-000080?style=for-the-badge&logo=vmix&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-shawaiz-a27176349)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Shawai8009@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square)](mailto:Shawai8009@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 Featured Projects
+## About
 
-<table>
-<tr>
-<td width="50%">
+I'm a full-stack engineer based in Islamabad, Pakistan, with a focus on building reliable, well-structured web applications, from database design and secure APIs to polished, animated front ends. I also enjoy game development and real-time systems, and I'm currently deepening my knowledge of system design and AI/ML.
 
-### 🎮 TETRIS Game
-**`C++` `SFML`**
-
-Classic Tetris game built from scratch with smooth animations and scoring system.
-
-</td>
-<td width="50%">
-
-### 🌐 GTA 6 Website
-**`React.js` `Node.js` `GSAP`**
-
-Stunning animated landing page with immersive GSAP animations and smooth transitions.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-**`React.js` `Redux Toolkit`**
-
-Full-featured online store with cart management, product filtering, and state management.
-
-</td>
-<td width="50%">
-
-### ☁️ Google Drive Clone
-**`React.js` `Firebase` `Yarn`**
-
-Cloud storage application with file upload, folder management, and real-time sync.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎭 Mafia Game
-**`React.js` `Socket.io` `Node.js` `Vite` `Express.js`**
-
-A real-time multiplayer game of deception where players take on secret roles, eliminate enemies under cover of night, and fight to survive until the truth is revealed.
-
-</td>
-
-<td width="50%">
-
-### 🧳 Enterprise Travel & Expense Management System
-**`Node.js` `Express.js` `Socket.IO` `PostGres` `JWT ` `React.js` `Tailwind CSS`**
-
-A robust PERN stack application for enterprise travel and expense management with role-based access control, multi-level approvals, real-time notifications, and secure PostgreSQL-backed authentication.
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%">
-
-### 💰 Finance Manager
-**`Java` `Swing`**
-
-Personal finance tracker with expense categorization and visual reports.
-
-</td>
-
-<td width="50%">
-
-### 🏡 Real Estate Management System
-**`Laravel` `PHP` `MySQL` `Bootstrap` `JWT`**
-
-Comprehensive property management platform with listings, agent management, and client inquiries.
-
-</td>
-</tr>
-</table>
+**Focus areas:** Full-stack development · Real-time systems · Role-based access control · System design
 
 ---
 
-## 💼 Experience
+## Experience
 
-<img align="right" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" />
-
-### 🔧 Mercurial Minds — *Software Engineering Intern*
-> 📅 **June 2024 – Aug 2024** & **June 2025 – Aug 2025**
+**Software Engineering Intern — Mercurial Minds**
+*Jun 2024 – Aug 2024 · Jun 2025 – Aug 2025*
 
 ---
 
-## 🎯 Current Goals
+## Education
 
-- 🚀 Master **Advanced React Patterns** & **System Design**
-- 🤖 Dive deeper into **AI/ML** with Python
-- 🎮 Build more **interactive games** and experiences
-- 🌐 Contribute to **Open Source** projects
-- 📱 Explore **Mobile Development**
+**BS Computer Science** — NUML Islamabad *(2024 – 2028)*
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
+
+### Enterprise Travel & Expense Management System
+`Node.js` `Express` `PostgreSQL` `React` `Tailwind CSS` `Socket.IO` `JWT`
+
+PERN-stack platform for managing corporate travel and expenses. Includes role-based access control, multi-level approval workflows, real-time notifications and JWT-secured authentication backed by PostgreSQL.
+
+### Mafia Game — Real-Time Multiplayer
+`React` `Node.js` `Express` `Socket.IO` `Vite`
+
+Multiplayer social-deduction game with secret roles, night/day phases and live synchronized game state across players.
+
+### Real Estate Management System
+`Laravel` `PHP` `MySQL` `Bootstrap` `JWT`
+
+Property management platform covering listings, agent management and client inquiries, with token-based authentication.
+
+### E-Commerce Platform
+`React` `Redux Toolkit`
+
+Storefront with cart management, product filtering and predictable global state handling.
+
+### Google Drive Clone
+`React` `Firebase`
+
+Cloud storage app with file upload, folder hierarchy and real-time sync.
+
+### GTA 6 Landing Page
+`React` `Node.js` `GSAP`
+
+Animation-heavy marketing page with scroll-driven GSAP transitions.
+
+### TETRIS
+`C++` `SFML`
+
+Classic Tetris built from scratch with a custom game loop, animations and scoring.
+
+### Finance Manager
+`Java` `Swing`
+
+Desktop personal finance tracker with expense categorization and visual reports.
+
+> More projects: [github.com/Palentoist](https://github.com/Palentoist)
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C++, Java, Python, JavaScript, PHP, SQL |
+| **Frontend** | React, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap, GSAP, Vite |
+| **Backend** | Node.js, Express, Laravel, REST APIs, Socket.IO, JWT |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase |
+| **Tooling** | Git, Docker, Postman, VS Code |
+| **Streaming** | WMSPanel, vMix |
+
+---
+
+## Currently
+
+- Building full-stack applications with an emphasis on clean architecture and security
+- Studying advanced React patterns and system design
+- Learning AI/ML with Python
+- Looking to contribute to open-source projects
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile Details"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos by Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palentoist&theme=tokyonight" alt="Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palentoist&theme=tokyonight" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile details" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos per language" width="48%"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🤝 Let's Connect & Build Something Amazing!
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  *Thanks for stopping by! Feel free to reach out for collaborations or just a friendly chat!* 
-  
-  ⭐️ **From [Syed Shawaiz Ali](https://github.com/Palentoist)** ⭐️
-  
+
+Open to collaborations and internship or junior-level full-stack roles. Feel free to reach out.
+
 </div>
