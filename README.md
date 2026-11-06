@@ -1,97 +1,187 @@
-# 👋 Hello, I'm Syed Shawaiz Ali
+<div align="center">
 
-### Full-Stack Engineer · Real-Time Systems · Game Developer
+# ⚡ Syed Shawaiz Ali
+### **Full-Stack Engineer • Real-Time Systems & Game Developer**
 
-*Builder • Problem Solver • Lifelong Learner*
+<p align="center">
+  <em>"Build it. Break it. Ship it better."</em><br>
+  Engineering secure PERN/MERN platforms, real-time multiplayer systems and animation-rich web experiences.<br>
+  CS Undergrad @ <strong>NUML Islamabad</strong> • Open to Opportunities
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-shawaiz-a27176349)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Shawai8009@gmail.com)
-[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square)](mailto:Shawai8009@gmail.com)
+<!-- PURE ICONS ROW -->
+<p align="center">
+  <a href="https://github.com/Palentoist" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="32" height="32" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/syed-shawaiz-a27176349" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="32" height="32" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Shawai8009@gmail.com" target="_blank" rel="noopener noreferrer" title="Direct Email">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Email" />
+  </a>
+</p>
 
-Welcome to my digital workshop! ⚡
-
-I design and build **secure full-stack applications**, **real-time multiplayer systems** and **interactive experiences**. My work spans database design, role-based APIs and polished, animated front ends, with a focus on clean architecture and maintainable code.
-
-I'm a CS undergraduate at **NUML Islamabad**, currently sharpening my skills in **system design** and **AI/ML**.
-
----
-
-## 🚀 The Core Stack
-
-I build with tools that favor reliability, speed and developer experience.
-
-| The Frontend (Face) | The Backend (Brain) | The Infrastructure |
-| --- | --- | --- |
-| React | Node.js / Express | Git |
-| Next.js | Laravel (PHP) | Docker |
-| Redux Toolkit | PostgreSQL | Vite |
-| Tailwind CSS | MySQL / MongoDB | Postman |
-| GSAP | Socket.IO | Firebase |
-| Vue.js | JWT Auth / REST APIs | VS Code |
-
-**Languages:** C++ · Java · Python · JavaScript · PHP · SQL
+</div>
 
 ---
 
-## 🌟 Featured Engineering
+## 💎 Flagship Full-Stack Platforms
 
-### 🧳 Enterprise Travel & Expense Management System
-**PERN stack · Socket.IO · JWT · Tailwind CSS**
+Production-style applications with authentication, real-time features and clean architecture:
 
-A full-stack platform for corporate travel and expense workflows.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧳 Enterprise Travel & Expense System</h3>
+      <p><em>Corporate travel and expense platform with role-based access control, multi-level approval chains and real-time notifications.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎭 Mafia: Real-Time Multiplayer</h3>
+      <p><em>Social-deduction game with secret roles, night/day phases and live synchronized state across every connected player.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 Real Estate Management System</h3>
+      <p><em>Property platform covering listings, agent management and client inquiries, secured with token-based authentication.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Platform</h3>
+      <p><em>Online storefront with cart management, product filtering and predictable global state handling.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Role-based access control with **multi-level approval chains**
-- **Real-time notifications** over WebSockets
-- Secure authentication backed by PostgreSQL
+---
 
-### 🎭 Mafia Game: Real-Time Multiplayer
-**React · Node.js · Express · Socket.IO · Vite**
+## 🎮 Interactive Experiences, Games & Desktop Apps
 
-A social-deduction game with secret roles, night/day phases and live synchronized state across all players.
+Animation, game loops and cloud-synced interfaces:
 
-### 🏡 Real Estate Management System
-**Laravel · PHP · MySQL · Bootstrap · JWT**
-
-Property platform covering listings, agent management and client inquiries, with token-based authentication.
-
-### More Projects
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| 🛒 E-Commerce Platform | React, Redux Toolkit | Cart, product filtering and global state management |
-| ☁️ Google Drive Clone | React, Firebase | File upload, folders and real-time sync |
-| 🌐 GTA 6 Landing Page | React, Node.js, GSAP | Scroll-driven animated marketing page |
-| 🎮 TETRIS | C++, SFML | Classic game built from scratch with a custom game loop |
-| 💰 Finance Manager | Java, Swing | Expense tracking with categories and visual reports |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Google Drive Clone</h3>
+      <p><em>Cloud storage app with file upload, folder hierarchy and real-time sync.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 GTA 6 Landing Page</h3>
+      <p><em>Immersive marketing page with scroll-driven GSAP animations and smooth transitions.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 TETRIS</h3>
+      <p><em>Classic Tetris built from scratch with a custom game loop, smooth animation and scoring system.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Finance Manager</h3>
+      <p><em>Desktop personal finance tracker with expense categorization and visual reports.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-007396?style=flat-square" />
+      </p>
+      <p>
+        📦 <a href="https://github.com/Palentoist?tab=repositories"><strong>Code Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-**Software Engineering Intern · Mercurial Minds**
-*Jun 2024 – Aug 2024 · Jun 2025 – Aug 2025*
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>🔧 Software Engineering Intern: Mercurial Minds</h3>
+      <p><em>Two internship terms working on software engineering projects.</em></p>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <p><strong>Jun – Aug 2024</strong><br><strong>Jun – Aug 2025</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,nodejs,express,laravel,php,postgres,mysql,mongodb,firebase,cpp,java,py,js,docker,git,vite,postman,vscode" alt="Technical Arsenal" />
+</div>
 
 ---
 
 ## 🎯 Currently Focused On
 
-- Advanced React patterns and **system design**
-- **AI/ML** with Python
-- Contributing to **open source**
-- Exploring mobile development
+`System Design` · `Advanced React Patterns` · `AI/ML with Python` · `Open Source` · `Mobile Development`
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile details" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos per language" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <b>Open to collaborations and internship or junior full-stack roles. Let's build something great.</b><br/>
-  <a href="mailto:Shawai8009@gmail.com">Shawai8009@gmail.com</a> · <a href="https://github.com/Palentoist">github.com/Palentoist</a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/Palentoist">GitHub</a> • 
+    <a href="https://www.linkedin.com/in/syed-shawaiz-a27176349">LinkedIn</a> • 
+    <a href="mailto:Shawai8009@gmail.com">Shawai8009@gmail.com</a>
+  </p>
+</div>
