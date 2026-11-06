@@ -1,121 +1,97 @@
-<div align="center">
+# 👋 Hello, I'm Syed Shawaiz Ali
 
-# Syed Shawaiz Ali
+### Full-Stack Engineer · Real-Time Systems · Game Developer
 
-**Full-Stack Software Engineer** · CS Undergraduate @ NUML Islamabad
-
-Building real-time, data-driven web applications with the PERN, MERN and Laravel stacks.
+*Builder • Problem Solver • Lifelong Learner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-shawaiz-a27176349)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Shawai8009@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square)](mailto:Shawai8009@gmail.com)
+[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square)](mailto:Shawai8009@gmail.com)
 
-</div>
+Welcome to my digital workshop! ⚡
 
----
+I design and build **secure full-stack applications**, **real-time multiplayer systems** and **interactive experiences**. My work spans database design, role-based APIs and polished, animated front ends, with a focus on clean architecture and maintainable code.
 
-## About
-
-I'm a full-stack engineer based in Islamabad, Pakistan, with a focus on building reliable, well-structured web applications, from database design and secure APIs to polished, animated front ends. I also enjoy game development and real-time systems, and I'm currently deepening my knowledge of system design and AI/ML.
-
-**Focus areas:** Full-stack development · Real-time systems · Role-based access control · System design
+I'm a CS undergraduate at **NUML Islamabad**, currently sharpening my skills in **system design** and **AI/ML**.
 
 ---
 
-## Experience
+## 🚀 The Core Stack
 
-**Software Engineering Intern — Mercurial Minds**
+I build with tools that favor reliability, speed and developer experience.
+
+| The Frontend (Face) | The Backend (Brain) | The Infrastructure |
+| --- | --- | --- |
+| React | Node.js / Express | Git |
+| Next.js | Laravel (PHP) | Docker |
+| Redux Toolkit | PostgreSQL | Vite |
+| Tailwind CSS | MySQL / MongoDB | Postman |
+| GSAP | Socket.IO | Firebase |
+| Vue.js | JWT Auth / REST APIs | VS Code |
+
+**Languages:** C++ · Java · Python · JavaScript · PHP · SQL
+
+---
+
+## 🌟 Featured Engineering
+
+### 🧳 Enterprise Travel & Expense Management System
+**PERN stack · Socket.IO · JWT · Tailwind CSS**
+
+A full-stack platform for corporate travel and expense workflows.
+
+- Role-based access control with **multi-level approval chains**
+- **Real-time notifications** over WebSockets
+- Secure authentication backed by PostgreSQL
+
+### 🎭 Mafia Game: Real-Time Multiplayer
+**React · Node.js · Express · Socket.IO · Vite**
+
+A social-deduction game with secret roles, night/day phases and live synchronized state across all players.
+
+### 🏡 Real Estate Management System
+**Laravel · PHP · MySQL · Bootstrap · JWT**
+
+Property platform covering listings, agent management and client inquiries, with token-based authentication.
+
+### More Projects
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| 🛒 E-Commerce Platform | React, Redux Toolkit | Cart, product filtering and global state management |
+| ☁️ Google Drive Clone | React, Firebase | File upload, folders and real-time sync |
+| 🌐 GTA 6 Landing Page | React, Node.js, GSAP | Scroll-driven animated marketing page |
+| 🎮 TETRIS | C++, SFML | Classic game built from scratch with a custom game loop |
+| 💰 Finance Manager | Java, Swing | Expense tracking with categories and visual reports |
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern · Mercurial Minds**
 *Jun 2024 – Aug 2024 · Jun 2025 – Aug 2025*
 
 ---
 
-## Education
+## 🎯 Currently Focused On
 
-**BS Computer Science** — NUML Islamabad *(2024 – 2028)*
-
----
-
-## Selected Projects
-
-### Enterprise Travel & Expense Management System
-`Node.js` `Express` `PostgreSQL` `React` `Tailwind CSS` `Socket.IO` `JWT`
-
-PERN-stack platform for managing corporate travel and expenses. Includes role-based access control, multi-level approval workflows, real-time notifications and JWT-secured authentication backed by PostgreSQL.
-
-### Mafia Game — Real-Time Multiplayer
-`React` `Node.js` `Express` `Socket.IO` `Vite`
-
-Multiplayer social-deduction game with secret roles, night/day phases and live synchronized game state across players.
-
-### Real Estate Management System
-`Laravel` `PHP` `MySQL` `Bootstrap` `JWT`
-
-Property management platform covering listings, agent management and client inquiries, with token-based authentication.
-
-### E-Commerce Platform
-`React` `Redux Toolkit`
-
-Storefront with cart management, product filtering and predictable global state handling.
-
-### Google Drive Clone
-`React` `Firebase`
-
-Cloud storage app with file upload, folder hierarchy and real-time sync.
-
-### GTA 6 Landing Page
-`React` `Node.js` `GSAP`
-
-Animation-heavy marketing page with scroll-driven GSAP transitions.
-
-### TETRIS
-`C++` `SFML`
-
-Classic Tetris built from scratch with a custom game loop, animations and scoring.
-
-### Finance Manager
-`Java` `Swing`
-
-Desktop personal finance tracker with expense categorization and visual reports.
-
-> More projects: [github.com/Palentoist](https://github.com/Palentoist)
+- Advanced React patterns and **system design**
+- **AI/ML** with Python
+- Contributing to **open source**
+- Exploring mobile development
 
 ---
 
-## Tech Stack
+## 📊 GitHub Activity
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | C++, Java, Python, JavaScript, PHP, SQL |
-| **Frontend** | React, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap, GSAP, Vite |
-| **Backend** | Node.js, Express, Laravel, REST APIs, Socket.IO, JWT |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase |
-| **Tooling** | Git, Docker, Postman, VS Code |
-| **Streaming** | WMSPanel, vMix |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile details" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos per language" width="48%"/>
+</p>
 
 ---
 
-## Currently
-
-- Building full-stack applications with an emphasis on clean architecture and security
-- Studying advanced React patterns and system design
-- Learning AI/ML with Python
-- Looking to contribute to open-source projects
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palentoist&theme=tokyonight" alt="Profile details" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palentoist&theme=tokyonight" alt="Repos per language" width="48%"/>
-
-</div>
-
----
-
-<div align="center">
-
-Open to collaborations and internship or junior-level full-stack roles. Feel free to reach out.
-
-</div>
+<p align="center">
+  <b>Open to collaborations and internship or junior full-stack roles. Let's build something great.</b><br/>
+  <a href="mailto:Shawai8009@gmail.com">Shawai8009@gmail.com</a> · <a href="https://github.com/Palentoist">github.com/Palentoist</a>
+</p>
