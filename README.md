@@ -174,7 +174,7 @@ Animation, game loops and cloud-synced interfaces:
 
 ## 🎯 Currently Focused On
 
-`System Design` · `Advanced React Patterns` · `AI/ML with Python` · `Open Source` · `Mobile Development`
+`System Design` · `Advanced React Patterns` · `AI/ML with Python` · `Open Source` · `Networking`
 
 ---
 
